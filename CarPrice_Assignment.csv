@@ -1,0 +1,23 @@
+Contains historical car information.
+
+Columns include:
+
+Car brand
+Fuel type
+Engine size
+Horsepower
+Mileage
+Price
+
+Example:
+
+| Brand  | Fuel | HP  | Price  |
+| ------ | ---- | --- | ------ |
+| Toyota | Gas  | 100 | 500000 |
+
+
+Used for:
+
+Training
+Testing
+Analysis
